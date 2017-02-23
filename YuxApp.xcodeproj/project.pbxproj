@@ -142,6 +142,10 @@
 		1845FE001E5E7FA300D9F994 /* Testing */ = {
 			isa = PBXGroup;
 			children = (
+				1845FDE71E5E7D1300D9F994 /* GalleryController.swift */,
+				1845FDE81E5E7D1300D9F994 /* GalleryItem.swift */,
+				1845FDE91E5E7D1300D9F994 /* GalleryViewCell.swift */,
+				1845FDEB1E5E7D1300D9F994 /* TestViewController.swift */,
 			);
 			name = Testing;
 			sourceTree = "<group>";
@@ -176,10 +180,6 @@
 				1845FDFC1E5E7F0900D9F994 /* Wardrobe */,
 				1845FDFB1E5E7EF200D9F994 /* Trends */,
 				1845FE001E5E7FA300D9F994 /* Testing */,
-				1845FDE71E5E7D1300D9F994 /* GalleryController.swift */,
-				1845FDE81E5E7D1300D9F994 /* GalleryItem.swift */,
-				1845FDE91E5E7D1300D9F994 /* GalleryViewCell.swift */,
-				1845FDEB1E5E7D1300D9F994 /* TestViewController.swift */,
 				185DFD0C1E532B410091ED01 /* Main.storyboard */,
 				185DFD0F1E532B410091ED01 /* Assets.xcassets */,
 				185DFD111E532B410091ED01 /* LaunchScreen.storyboard */,
